@@ -1,5 +1,5 @@
 
-def find_two_sum(nums, target:int):
+def find_two_sum(nums, target):
     # Loop through each number
     for i in range(len(nums)):
         # Loop through remaining numbers
